@@ -1,0 +1,145 @@
+{
+  "project_info": {
+    "project_number": "259092449158",
+    "project_id": "almost-everything-app",
+    "storage_bucket": "almost-everything-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259092449158:android:b0fb4cbe0355efe8c38e07",
+        "android_client_info": {
+          "package_name": "com.almosteverything.booksummaries.podcasts.audiobooksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259092449158-je84294p087cilqqp4k5vcb6s3dhnf68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.almosteverything.booksummaries.podcasts.audiobooksapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "259092449158-mcasmcek0lg00nh8o6pval1e3g3n5ah1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.almosteverything.booksummaries.podcasts.audiobooksapp",
+            "certificate_hash": "7e095c239421b5c5f8dbd497b5bf567a53852f06"
+          }
+        },
+        {
+          "client_id": "259092449158-sdc80kc3mlrl7kv9uail482tkhv146ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDifpotzjxV-ogqkVK4hu6l9u17z1uhfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259092449158-kd4210qskatr5kvckntcbq2g5nh00gfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259092449158:android:1cd838f286243822c38e07",
+        "android_client_info": {
+          "package_name": "com.almosteverything.booksummaries.selfimprovement.podcasts.audiobooksapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259092449158-er2lrd2fo7pjfg7uj36lt5dkb1htg9kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.almosteverything.booksummaries.selfimprovement.podcasts.audiobooksapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "259092449158-iu0upie969tumo87dhhfi5s9mbr8i2et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.almosteverything.booksummaries.selfimprovement.podcasts.audiobooksapp",
+            "certificate_hash": "7e095c239421b5c5f8dbd497b5bf567a53852f06"
+          }
+        },
+        {
+          "client_id": "259092449158-sdc80kc3mlrl7kv9uail482tkhv146ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDifpotzjxV-ogqkVK4hu6l9u17z1uhfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259092449158-kd4210qskatr5kvckntcbq2g5nh00gfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259092449158:android:4d9cb28f23497beec38e07",
+        "android_client_info": {
+          "package_name": "com.audiobookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259092449158-8sgfd2qt5uf4i38r1g4e67qd58rdlsdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.audiobookapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "259092449158-dko8f3k2pgvgf3qqusqrfa2e1i8u4pre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.audiobookapp",
+            "certificate_hash": "7e095c239421b5c5f8dbd497b5bf567a53852f06"
+          }
+        },
+        {
+          "client_id": "259092449158-sdc80kc3mlrl7kv9uail482tkhv146ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDifpotzjxV-ogqkVK4hu6l9u17z1uhfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259092449158-kd4210qskatr5kvckntcbq2g5nh00gfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

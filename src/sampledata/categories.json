@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Art",
+    "key": "Art",
+    "color":"#bdc581",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Biography",
+    "key": "Biography",
+    "color":"#5c25f7",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Business",
+    "key": "Business",
+    "color":"#fd7272",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Children's",
+    "key": "Children's",
+    "color":"#4d907f",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Christian",
+    "key": "Christian",
+    "color":"#fc427b",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Classics",
+    "key": "Classics",
+    "color":"#3b3b98",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Comics",
+    "key": "Comics",
+    "color":"#f97f51",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Cookbooks",
+    "key": "Cookbooks",
+    "color":"#eab543",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Ebooks",
+    "key": "Ebooks",
+    "color":"#bdc581",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Fantasy",
+    "key": "Fantasy",
+    "color":"#bdc581",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Fiction",
+    "key": "Fiction",
+    "color":"#bdc581",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Graphic Novels",
+    "key": "Graphic Novels",
+    "color":"#bdc581",
+    "img":"../images/businessicon.png"
+  },
+  {
+    "name": "Historical Fiction",
+    "key": "Historical Fiction",
+    "color":"#bdc581",
+    "img":"../images/businessicon.png"
+  }
+  
+]
